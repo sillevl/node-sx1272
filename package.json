@@ -1,0 +1,19 @@
+{
+  "name": "node-sx1272",
+  "version": "0.0.1",
+  "description": "Native NodeJS driver for SX1272 Lora transceivers",
+  "main": "sx1272.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git"
+  },
+  "keywords": [
+    "lora",
+    "sx1272"
+  ],
+  "author": "Sille Van Landschoot",
+  "license": "MIT"
+}
